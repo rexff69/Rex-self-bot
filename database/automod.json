@@ -1,0 +1,12 @@
+{
+  "1391434770231201792": {
+    "enabled": true,
+    "bannedWords": [],
+    "ignoreRoles": [],
+    "ignoredPerms": {
+      "owner": false,
+      "admin": false,
+      "mods": false
+    }
+  }
+}
